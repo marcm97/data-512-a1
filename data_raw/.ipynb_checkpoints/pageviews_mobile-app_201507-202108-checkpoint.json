@@ -1,0 +1,7 @@
+{
+    "type": "https://mediawiki.org/wiki/HyperSwitch/errors/bad_request",
+    "title": "Invalid parameters",
+    "method": "get",
+    "detail": "data.params.access should be equal to one of the allowed values: [all-access, desktop, mobile-app, mobile-web]",
+    "uri": "/wikimedia.org/v1/metrics/pageviews/aggregate/en.wikipedia.org/mobile_app/user/monthly/2015070100/2021090100"
+}
