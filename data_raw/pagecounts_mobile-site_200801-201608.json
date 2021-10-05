@@ -153,13 +153,6 @@
             "granularity": "monthly",
             "timestamp": "2016070100",
             "count": 3500661121
-        },
-        {
-            "project": "en.wikipedia",
-            "access-site": "mobile-site",
-            "granularity": "monthly",
-            "timestamp": "2016080100",
-            "count": 480041296
         }
     ]
 }
